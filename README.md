@@ -15,7 +15,7 @@ The following **required** functionality is complete:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- I want to add more functionilty to it including home page, etc.
 
 ## Video Walkthrough
 
